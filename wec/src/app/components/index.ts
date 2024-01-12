@@ -1,3 +1,13 @@
+
+import SearchComponent from "./SearchComponent";
 import Map from "./Map";
 
-export { Map };
+export {
+  SearchComponent,
+  Map
+}
+
+
+
+
+
