@@ -1,6 +1,6 @@
 
-import SearchComponent from "./SearchComponent";
 import Map from "./Map";
+import SearchComponent from "./SearchComponent";
 
 export {
   SearchComponent,
