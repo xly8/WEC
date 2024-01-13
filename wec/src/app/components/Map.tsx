@@ -21,6 +21,7 @@ const defaultIcon = new L.Icon({
   shadowSize: [41, 41]
 });
 
+
 // Define a type for the item structure
 type MapItem = {
   id: number;
